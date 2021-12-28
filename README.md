@@ -1,4 +1,5 @@
-For this repository I have created from scratch my first portfolio.
+I have created my first portfolio from scratch.
+
 Features:
 
 - External CSS
