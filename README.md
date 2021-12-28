@@ -15,5 +15,5 @@ link to the live site:
 https://ibarros19.github.io/portfolio/
 
 Link to GitHub:
-
+https://github.com/ibarros19/portfolio
 
